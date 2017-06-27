@@ -1,5 +1,16 @@
+# Babel exercise
 
-## Babel intro exercise
+The goal of this exercise is to understand some basics of Babel.
+
+## Get started
+
+If you have yarn:
+`git clone git@github.com:leanjscom/babel-exercise.git && cd babel-exercise && yarn install`
+
+If you have npm:
+`git clone git@github.com:leanjscom/babel-exercise.git && cd babel-exercise && npm install`
+
+## Exercise
 
 - Run this command **`node index.js`** and you'll see an error. Where is the problem?
 - Run this command **`npm install --save-dev babel-cli babel-preset-es2015 babel-preset-stage-2`**
