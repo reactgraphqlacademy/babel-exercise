@@ -13,7 +13,7 @@ If you have npm:
 ## Exercise
 
 - Run this command **`node index.js`** and you'll see an error. Where is the problem?
-- Run this command **`npm install --save-dev babel-cli babel-preset-es2015 babel-preset-stage-2`**
+- Run this command **`yarn add --dev babel-cli babel-preset-es2015`**
 - You should configure babel using the presets in the .babelrc file. Let's add the following presets:
 **`{
   "presets": ["es2015"]
