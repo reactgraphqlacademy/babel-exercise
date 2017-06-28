@@ -19,6 +19,6 @@ If you have npm:
   "presets": ["es2015"]
 }`**
 - If this is working you should be able to see the transpiled code by running: **`npm run babel`**
-- Now you can use the -o flag to output this into a file: **`npm run -o transpiled_index.js`**
+- Now you can use the -o flag to output this into a file: **`npm run babel -o transpiled_index.js`**
 - Now you should be able to run the transpiled file by running: **`node transpiled_index.js`**
 - More questions? Don't forget to check out the docs, in particular: http://babeljs.io/docs/usage/cli/
