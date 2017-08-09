@@ -5,10 +5,10 @@ The goal of this exercise is to understand some basics of Babel.
 ## Get started
 
 If you have yarn:
-`git clone git@github.com:leanjscom/babel-exercise.git && cd babel-exercise && yarn install`
+`git clone https://github.com/leanjscom/babel-exercise.git && cd babel-exercise && yarn install`
 
 If you have npm:
-`git clone git@github.com:leanjscom/babel-exercise.git && cd babel-exercise && npm install`
+`git clone https://github.com/leanjscom/babel-exercise.git && cd babel-exercise && npm install`
 
 ## Exercise
 
